@@ -99,6 +99,11 @@
         width: 250px;
         margin-bottom: 90px;
     }
+    
+    #about h1{
+        font-size: 1.5rem;
+        padding: 0 20px
+    }
 
 }
 
